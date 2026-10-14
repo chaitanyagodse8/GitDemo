@@ -4,5 +4,8 @@ using namespace std;
 int main() {
 	cout<<"This is a program to test git commands";
 	cout<<"Some changes made";
+	cout<<"Some changes made 1";
+	cout<<"Some changes made 2";
+	cout<<"Some changes made 3";	
 
 }
